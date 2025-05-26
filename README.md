@@ -34,5 +34,6 @@ This project is a full-featured dashboard backend that integrates with the **Fac
 - **Recharts** (for charts)
 ---
 ## Developed by Abdullah
-- 📧 [dev@abdullah-ah.me]
+- 📧 [abdullahabdulhannan.ab@gmail.com]
+
 - 🌐 [Portfolio](https://www.abdullah-ah.me/)
